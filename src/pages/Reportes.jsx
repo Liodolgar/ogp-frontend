@@ -1,0 +1,15 @@
+import React, { useState } from 'react';
+import useRemoteData from './useRemoteData.js';
+import { getReportData } from '../services/api.js';
+import { Loading, PageHeader } from './CatalogPage.jsx';
+import LineChart from '../components/charts/LineChart.jsx';
+import DonutChart from '../components/charts/DonutChart.jsx';
+import BarRanking from '../components/charts/BarRanking.jsx';
+import PueblaHexMap from '../components/map/PueblaHexMap.jsx';
+import Icon from '../assets/icons.jsx';
+export default function Reportes() {
+  const {loading,data,error}=useRemoteData(getReportData,[]); const [lineKey,setLineKey]=useState('hist'); const [topKey,setTopKey]=useState('rec');
+  if (loading) return <><PageHeader title="Reportes y analítica" description="Estado del patrimonio gastronómico con datos agregados del conjunto de muestra." /><div className="loading-state">Cargando reportes…</div></>;
+  if (error || !data) return <div className="empty-state">No fue posible cargar los datos de reportes.</div>;
+  return <><PageHeader title="Reportes y analítica" description="Estado del patrimonio gastronómico con datos agregados del conjunto de muestra." /><Loading loading={loading} error={error}><div className="g-kpis">{data.kpis.map(k=><div className="g-kpi" key={k.label}><span className="g-dot" style={{width:40,height:40,background:k.color}}><Icon name={k.icon} size={21}/></span><b>{k.value}</b><small>{k.label}</small><em>{k.delta}</em></div>)}</div><div className="g-card" style={{marginBottom:16}}><div className="g-ch"><h3>Evolución en el tiempo</h3><div className="g-seg">{[['hist','Registros históricos'],['verif','Verificación'],['geo','Cobertura geográfica'],['cat','Por categoría']].map(([id,label])=><button key={id} type="button" className={lineKey===id?'on':''} onClick={()=>setLineKey(id)}>{label}</button>)}</div></div><p className="g-sm">{data.lineCharts[lineKey].sub}</p><LineChart chart={data.lineCharts[lineKey]}/></div><div className="g-2"><div className="g-card"><div className="g-ch"><h3>Distribución por categoría</h3></div><DonutChart categories={data.categories}/></div><div className="g-card"><div className="g-ch"><h3>Cobertura municipal esquemática</h3></div><div className="g-mapwrap" style={{maxWidth:420,margin:'0 auto'}}><PueblaHexMap mode="heat" markers={[]}/></div></div></div><div className="g-2"><div className="g-card"><div className="g-ch"><h3>Los 5 más registrados</h3><div className="g-seg">{[['rec','Recetas'],['ing','Ingredientes'],['mer','Mercados'],['mun','Municipios']].map(([id,label])=><button key={id} className={topKey===id?'on':''} type="button" onClick={()=>setTopKey(id)}>{label}</button>)}</div></div><BarRanking items={data.top[topKey]}/></div><div className="g-card"><div className="g-ch"><h3>Calidad de los datos</h3></div>{data.quality.map(q=><div className="g-qbar" key={q.name}><span>{q.name}</span><i><u style={{width:`${q.value}%`,background:q.color}}/></i><b>{q.value}%</b></div>)}<p className="foot-note">Datos de muestra del mockup; no son métricas conectadas al backend.</p></div></div></Loading></>;
+}

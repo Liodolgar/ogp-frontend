@@ -1,0 +1,214 @@
+[
+  {
+    "n": "Indicación Geográfica Mole Poblano",
+    "ic": "shield",
+    "c": "#B23A1F",
+    "tp": "IG",
+    "tpn": "Indicación geográfica (IG)",
+    "j": "Estatal",
+    "st": "Otorgada",
+    "f": "12/05/2024",
+    "a": "IMPI",
+    "v": 1,
+    "alc": "La receta tradicional del Mole Poblano producida en el estado de Puebla, conforme a su método tradicional y área geográfica definida.",
+    "d": "El Mole Poblano es una salsa emblemática que combina chiles, especias, frutos secos y chocolate mexicano, reflejo del mestizaje culinario poblano.",
+    "car": [
+      "Uso de chiles secos seleccionados",
+      "Mezcla de especias y semillas",
+      "Incorporación de chocolate mexicano",
+      "Cocción lenta y proceso tradicional"
+    ],
+    "docs": [
+      [
+        "Título de Indicación Geográfica",
+        "PDF · 1.2 MB"
+      ],
+      [
+        "Resolución IMPI-IG-2024-015",
+        "PDF · 860 KB"
+      ]
+    ],
+    "mun": 32,
+    "tl": [
+      [
+        "Solicitud ingresada",
+        "10/03/2022"
+      ],
+      [
+        "Examen de forma",
+        "28/06/2022"
+      ],
+      [
+        "Publicación en Gaceta",
+        "14/11/2022"
+      ],
+      [
+        "Examen de fondo",
+        "20/09/2023"
+      ],
+      [
+        "Protección otorgada",
+        "12/05/2024"
+      ]
+    ],
+    "id": "1",
+    "slug": "declaratoria-1"
+  },
+  {
+    "n": "Platillo Típico Chile en Nogada",
+    "ic": "recipe",
+    "c": "#D89A2E",
+    "tp": "PT",
+    "tpn": "Platillo típico (PT)",
+    "j": "Estatal",
+    "st": "Otorgada",
+    "f": "09/05/2023",
+    "a": "SECTUR Puebla",
+    "v": 1,
+    "alc": "El platillo tradicional de chile en nogada elaborado con ingredientes de temporada y método tradicional poblano.",
+    "d": "Platillo de temporada que integra chile poblano, nogada, granada y picadillo; su declaratoria protege su elaboración tradicional.",
+    "car": [
+      "Chile poblano de temporada",
+      "Nogada de nuez de Castilla",
+      "Granada como remate",
+      "Temporada agosto–septiembre"
+    ],
+    "docs": [
+      [
+        "Declaratoria de Platillo Típico",
+        "PDF · 940 KB"
+      ]
+    ],
+    "mun": 18,
+    "tl": [
+      [
+        "Solicitud ingresada",
+        "02/02/2022"
+      ],
+      [
+        "Dictamen técnico",
+        "15/09/2022"
+      ],
+      [
+        "Declaratoria publicada",
+        "09/05/2023"
+      ]
+    ],
+    "id": "2",
+    "slug": "declaratoria-2"
+  },
+  {
+    "n": "Origen Talavera de Puebla",
+    "ic": "star",
+    "c": "#7A5EA8",
+    "tp": "DO",
+    "tpn": "Denominación de origen (DO)",
+    "j": "Estatal",
+    "st": "En trámite",
+    "f": "—",
+    "a": "IMPI",
+    "v": 0,
+    "alc": "Protección de la cerámica de talavera y su vínculo con la vajilla y utensilios de la cocina poblana.",
+    "d": "Expediente en curso para reforzar la denominación de origen de la talavera poblana asociada a la cocina tradicional.",
+    "car": [
+      "Arcilla local",
+      "Esmaltes a base de estaño",
+      "Decoración pintada a mano"
+    ],
+    "docs": [
+      [
+        "Solicitud de ampliación",
+        "PDF · 720 KB"
+      ]
+    ],
+    "mun": 4,
+    "tl": [
+      [
+        "Solicitud ingresada",
+        "20/11/2023"
+      ],
+      [
+        "Examen de forma",
+        "En curso"
+      ]
+    ],
+    "id": "3",
+    "slug": "declaratoria-3"
+  },
+  {
+    "n": "Indicación Geográfica Café de la Sierra Norte",
+    "ic": "leaf",
+    "c": "#4F7A4A",
+    "tp": "IG",
+    "tpn": "Indicación geográfica (IG)",
+    "j": "Estatal",
+    "st": "En evaluación",
+    "f": "—",
+    "a": "SECTUR Puebla",
+    "v": 0,
+    "alc": "Café cultivado en municipios de la Sierra Norte de Puebla bajo prácticas tradicionales.",
+    "d": "Expediente en evaluación técnica para proteger el café de altura de la Sierra Norte.",
+    "car": [
+      "Cultivo bajo sombra",
+      "Beneficio húmedo tradicional",
+      "Altitud entre 900 y 1,600 m"
+    ],
+    "docs": [
+      [
+        "Estudio técnico preliminar",
+        "PDF · 1.5 MB"
+      ]
+    ],
+    "mun": 9,
+    "tl": [
+      [
+        "Solicitud ingresada",
+        "05/06/2023"
+      ],
+      [
+        "Evaluación técnica",
+        "En curso"
+      ]
+    ],
+    "id": "4",
+    "slug": "declaratoria-4"
+  },
+  {
+    "n": "Platillo Típico Chalupas Poblanas",
+    "ic": "recipe",
+    "c": "#10284C",
+    "tp": "PT",
+    "tpn": "Platillo típico (PT)",
+    "j": "Municipal",
+    "st": "Otorgada",
+    "f": "18/11/2022",
+    "a": "Ayuntamiento de Puebla",
+    "v": 1,
+    "alc": "Chalupas poblanas elaboradas conforme a receta y técnica tradicional del municipio de Puebla.",
+    "d": "Declaratoria municipal que reconoce la preparación tradicional de la chalupa poblana.",
+    "car": [
+      "Tortilla pequeña frita",
+      "Salsa roja o verde",
+      "Carne deshebrada y cebolla"
+    ],
+    "docs": [
+      [
+        "Declaratoria municipal",
+        "PDF · 610 KB"
+      ]
+    ],
+    "mun": 1,
+    "tl": [
+      [
+        "Solicitud ingresada",
+        "04/03/2022"
+      ],
+      [
+        "Declaratoria publicada",
+        "18/11/2022"
+      ]
+    ],
+    "id": "5",
+    "slug": "declaratoria-5"
+  }
+]

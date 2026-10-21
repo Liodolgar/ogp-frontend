@@ -1,0 +1,496 @@
+[
+  {
+    "n": "Mole poblano",
+    "p": "Puebla de Zaragoza",
+    "e": "Época virreinal (siglo XVII–XVIII)",
+    "v": 1,
+    "rel": 7,
+    "cl": [
+      "#4A2416",
+      "#C89A5B"
+    ],
+    "d": "El mole poblano es un platillo emblemático que combina chiles, especias, chocolate y semillas en una salsa compleja y aromática. Es símbolo de la fusión cultural novohispana.",
+    "ing": [
+      [
+        "Chile poblano",
+        "Base de la salsa · San Andrés Calpan"
+      ],
+      [
+        "Chile mulato",
+        "Aporta dulzor y color oscuro"
+      ],
+      [
+        "Chile pasilla",
+        "Notas ahumadas"
+      ],
+      [
+        "Chocolate mexicano",
+        "Cacao tostado y molido"
+      ],
+      [
+        "Almendra",
+        "Espesante · Valle de Puebla"
+      ],
+      [
+        "Ajonjolí",
+        "Semilla tostada"
+      ],
+      [
+        "Canela y especias",
+        "Clavo, pimienta, anís"
+      ]
+    ],
+    "fu": [
+      "Manuscrito conventual de recetas, siglo XVIII",
+      "Fondo reservado · Biblioteca Palafoxiana"
+    ],
+    "li": "Transmitido por familias conventuales y cocineras tradicionales de Puebla.",
+    "lin": [
+      "Cocinas conventuales (siglo XVII)",
+      "Familias poblanas (siglo XIX)",
+      "Cocineras tradicionales (actualidad)"
+    ],
+    "coc": [
+      "María Ángeles X.",
+      "Reina Calderón",
+      "Lucila Vargas"
+    ],
+    "mer": [
+      "Mercado de El Carmen",
+      "Mercado La Acocota"
+    ],
+    "otras": [
+      "Chiles en nogada",
+      "Mole de caderas",
+      "Pipián verde"
+    ],
+    "rels": [
+      [
+        "ing",
+        8
+      ],
+      [
+        "mer",
+        3
+      ],
+      [
+        "coc",
+        10
+      ],
+      [
+        "mun",
+        4
+      ],
+      [
+        "leg",
+        1
+      ],
+      [
+        "rec",
+        7
+      ]
+    ],
+    "id": "1",
+    "slug": "receta-1"
+  },
+  {
+    "ing": [
+      [
+        "Chile poblano",
+        "Rellenable · temporada"
+      ],
+      [
+        "Nuez de Castilla",
+        "Para la nogada · Calpan"
+      ],
+      [
+        "Granada",
+        "Decoración · agosto–septiembre"
+      ],
+      [
+        "Picadillo",
+        "Frutas y carne"
+      ]
+    ],
+    "fu": [
+      "Recetario manuscrito, siglo XIX",
+      "Archivo histórico · Biblioteca Palafoxiana"
+    ],
+    "li": "Transmitido de generación en generación por cocineras tradicionales de la región.",
+    "lin": [
+      "Cocina de humo comunitaria",
+      "Cocineras de mercado",
+      "Cocineras portadoras actuales"
+    ],
+    "coc": [
+      "Reina Calderón",
+      "Lucila Vargas",
+      "Adela Vargas"
+    ],
+    "mer": [
+      "Mercado de El Carmen"
+    ],
+    "otras": [
+      "Mole poblano",
+      "Tlatlapas"
+    ],
+    "rels": [
+      [
+        "ing",
+        5
+      ],
+      [
+        "mer",
+        2
+      ],
+      [
+        "coc",
+        4
+      ],
+      [
+        "mun",
+        2
+      ],
+      [
+        "leg",
+        0
+      ],
+      [
+        "rec",
+        3
+      ]
+    ],
+    "n": "Chiles en nogada",
+    "p": "Puebla de Zaragoza",
+    "e": "Época virreinal (siglo XIX)",
+    "v": 1,
+    "rel": 6,
+    "cl": [
+      "#EFE7D2",
+      "#B8232A"
+    ],
+    "d": "Chile poblano relleno de picadillo, bañado con nogada y coronado con granada. Sus colores evocan la bandera nacional y su temporada coincide con la cosecha de nuez de Castilla.",
+    "id": "2",
+    "slug": "receta-2"
+  },
+  {
+    "ing": [
+      [
+        "Chile poblano",
+        "Base de la preparación · San Andrés Calpan"
+      ],
+      [
+        "Maíz nativo",
+        "Nixtamalizado · Sierra Norte"
+      ],
+      [
+        "Manteca de cerdo",
+        "Técnica tradicional"
+      ],
+      [
+        "Sal y hierbas",
+        "Epazote, cilantro"
+      ]
+    ],
+    "fu": [
+      "Recetario manuscrito, siglo XIX",
+      "Archivo histórico · Biblioteca Palafoxiana"
+    ],
+    "li": "Transmitido de generación en generación por cocineras tradicionales de la región.",
+    "lin": [
+      "Cocina de humo comunitaria",
+      "Cocineras de mercado",
+      "Cocineras portadoras actuales"
+    ],
+    "coc": [
+      "Reina Calderón",
+      "Lucila Vargas",
+      "Adela Vargas"
+    ],
+    "mer": [
+      "Mercado de El Carmen"
+    ],
+    "otras": [
+      "Sopa de milpa",
+      "Memelas de frijol"
+    ],
+    "rels": [
+      [
+        "ing",
+        5
+      ],
+      [
+        "mer",
+        2
+      ],
+      [
+        "coc",
+        4
+      ],
+      [
+        "mun",
+        2
+      ],
+      [
+        "leg",
+        0
+      ],
+      [
+        "rec",
+        3
+      ]
+    ],
+    "n": "Tlatlapas",
+    "p": "Tepeaca",
+    "e": "Época prehispánica",
+    "v": 0,
+    "rel": 4,
+    "cl": [
+      "#C9A063",
+      "#5B3A1E"
+    ],
+    "d": "Preparación de raíz prehispánica a base de maíz y frijol, cocida en comal de barro. Su registro está en proceso de verificación comunitaria.",
+    "id": "3",
+    "slug": "receta-3"
+  },
+  {
+    "ing": [
+      [
+        "Chile poblano",
+        "Base de la preparación · San Andrés Calpan"
+      ],
+      [
+        "Maíz nativo",
+        "Nixtamalizado · Sierra Norte"
+      ],
+      [
+        "Manteca de cerdo",
+        "Técnica tradicional"
+      ],
+      [
+        "Sal y hierbas",
+        "Epazote, cilantro"
+      ]
+    ],
+    "fu": [
+      "Recetario manuscrito, siglo XIX",
+      "Archivo histórico · Biblioteca Palafoxiana"
+    ],
+    "li": "Transmitido de generación en generación por cocineras tradicionales de la región.",
+    "lin": [
+      "Cocina de humo comunitaria",
+      "Cocineras de mercado",
+      "Cocineras portadoras actuales"
+    ],
+    "coc": [
+      "Reina Calderón",
+      "Lucila Vargas",
+      "Adela Vargas"
+    ],
+    "mer": [
+      "Mercado de El Carmen"
+    ],
+    "otras": [
+      "Tlatlapas",
+      "Chalupas poblanas"
+    ],
+    "rels": [
+      [
+        "ing",
+        5
+      ],
+      [
+        "mer",
+        2
+      ],
+      [
+        "coc",
+        4
+      ],
+      [
+        "mun",
+        2
+      ],
+      [
+        "leg",
+        0
+      ],
+      [
+        "rec",
+        3
+      ]
+    ],
+    "n": "Sopa de milpa",
+    "p": "Atlixco",
+    "e": "Época virreinal",
+    "v": 1,
+    "rel": 3,
+    "cl": [
+      "#D9772B",
+      "#4F7A4A"
+    ],
+    "d": "Sopa de temporada que reúne los productos de la milpa: calabaza, flor de calabaza, elote, frijol y epazote.",
+    "id": "4",
+    "slug": "receta-4"
+  },
+  {
+    "ing": [
+      [
+        "Chile poblano",
+        "Base de la preparación · San Andrés Calpan"
+      ],
+      [
+        "Maíz nativo",
+        "Nixtamalizado · Sierra Norte"
+      ],
+      [
+        "Manteca de cerdo",
+        "Técnica tradicional"
+      ],
+      [
+        "Sal y hierbas",
+        "Epazote, cilantro"
+      ]
+    ],
+    "fu": [
+      "Recetario manuscrito, siglo XIX",
+      "Archivo histórico · Biblioteca Palafoxiana"
+    ],
+    "li": "Transmitido de generación en generación por cocineras tradicionales de la región.",
+    "lin": [
+      "Cocina de humo comunitaria",
+      "Cocineras de mercado",
+      "Cocineras portadoras actuales"
+    ],
+    "coc": [
+      "Reina Calderón",
+      "Lucila Vargas",
+      "Adela Vargas"
+    ],
+    "mer": [
+      "Mercado de El Carmen"
+    ],
+    "otras": [
+      "Tlatlapas",
+      "Chalupas poblanas"
+    ],
+    "rels": [
+      [
+        "ing",
+        5
+      ],
+      [
+        "mer",
+        2
+      ],
+      [
+        "coc",
+        4
+      ],
+      [
+        "mun",
+        2
+      ],
+      [
+        "leg",
+        0
+      ],
+      [
+        "rec",
+        3
+      ]
+    ],
+    "n": "Memelas de frijol",
+    "p": "Huejotzingo",
+    "e": "Contemporánea",
+    "v": 1,
+    "rel": 4,
+    "cl": [
+      "#E7D3A5",
+      "#7A3B22"
+    ],
+    "d": "Tortilla gruesa de maíz con frijol, salsa y queso, de consumo cotidiano en mercados y tianguis.",
+    "id": "5",
+    "slug": "receta-5"
+  },
+  {
+    "ing": [
+      [
+        "Chile poblano",
+        "Base de la preparación · San Andrés Calpan"
+      ],
+      [
+        "Maíz nativo",
+        "Nixtamalizado · Sierra Norte"
+      ],
+      [
+        "Manteca de cerdo",
+        "Técnica tradicional"
+      ],
+      [
+        "Sal y hierbas",
+        "Epazote, cilantro"
+      ]
+    ],
+    "fu": [
+      "Recetario manuscrito, siglo XIX",
+      "Archivo histórico · Biblioteca Palafoxiana"
+    ],
+    "li": "Transmitido de generación en generación por cocineras tradicionales de la región.",
+    "lin": [
+      "Cocina de humo comunitaria",
+      "Cocineras de mercado",
+      "Cocineras portadoras actuales"
+    ],
+    "coc": [
+      "Reina Calderón",
+      "Lucila Vargas",
+      "Adela Vargas"
+    ],
+    "mer": [
+      "Mercado de El Carmen"
+    ],
+    "otras": [
+      "Memelas de frijol",
+      "Mole poblano"
+    ],
+    "rels": [
+      [
+        "ing",
+        5
+      ],
+      [
+        "mer",
+        2
+      ],
+      [
+        "coc",
+        4
+      ],
+      [
+        "mun",
+        2
+      ],
+      [
+        "leg",
+        0
+      ],
+      [
+        "rec",
+        3
+      ]
+    ],
+    "n": "Chalupas poblanas",
+    "p": "San Pedro Cholula",
+    "e": "Contemporánea",
+    "v": 1,
+    "rel": 4,
+    "cl": [
+      "#B23A1F",
+      "#F2F2E6"
+    ],
+    "d": "Tortillas pequeñas fritas con salsa roja o verde, carne deshebrada y cebolla. Cuentan con declaratoria de Platillo Típico municipal.",
+    "id": "6",
+    "slug": "receta-6"
+  }
+]

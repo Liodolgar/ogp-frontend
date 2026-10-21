@@ -1,0 +1,243 @@
+[
+  {
+    "n": "Victoria Contreras Coyota",
+    "c": "#10284C",
+    "m": "Cuetzalan del Progreso",
+    "esp": [
+      "Cocina ritual",
+      "Tamales"
+    ],
+    "len": "Náhuatl y español",
+    "rec": 34,
+    "mer": 4,
+    "est": 12,
+    "q": "Cocinar también es preservar la memoria y fortalecer la comunidad.",
+    "rol": "Cocinera tradicional de Cuetzalan, Puebla",
+    "org": "Maseual Siuamej Mosenyolchicauanij",
+    "bio": "Desde muy pequeña aprendió a cocinar con su bisabuela preparando memelas, tortillas a mano y tamales. Entre sus platillos más representativos están el mole rojo, el pollo en pipián, los tamales de frijol y el chilpozontle, recetas que ha resguardado y enseñado a nuevas generaciones. Forma parte del colectivo de mujeres indígenas que impulsa el emprendimiento comunitario.",
+    "ins": [
+      "Mole rojo",
+      "Pollo en pipián",
+      "Tamales de frijol",
+      "Chilpozontle"
+    ],
+    "oral": [
+      [
+        "Memorias de cocina con mi bisabuela",
+        "12/03/2021 · 18:45 min"
+      ],
+      [
+        "El chilpozontle y nuestra cocina nahua",
+        "09/11/2022 · 14:20 min"
+      ]
+    ],
+    "lin": [
+      "Bisabuela · Cocina tradicional",
+      "Abuela · Cocina tradicional",
+      "Madre · Cocina tradicional",
+      "Victoria Contreras · Cocina tradicional poblana"
+    ],
+    "es": "Hotel ecoturístico Taselotzin (Cuetzalan del Progreso)",
+    "ver": [
+      "Verificada por el Observatorio",
+      "Fuente: VII Foro Mundial de la Gastronomía Mexicana, 2023",
+      "Verificado el 15/05/2023 · por Mtra. Elena Torres"
+    ],
+    "id": "1",
+    "slug": "cocinera-1"
+  },
+  {
+    "n": "Adela Vargas Hernández",
+    "c": "#C1531E",
+    "m": "Zacatlán",
+    "esp": [
+      "Cocina de montaña",
+      "Mermeladas"
+    ],
+    "len": "Náhuatl y español",
+    "rec": 12,
+    "mer": 2,
+    "est": 5,
+    "q": "La montaña nos da lo que la cocina transforma.",
+    "rol": "Cocinera tradicional de la Sierra Norte",
+    "org": "Colectivo Cocineras de la Sierra",
+    "bio": "Cocinera de la Sierra Norte especializada en platillos de temporada con manzana, hongos y hierbas de monte. Documenta técnicas de conservación de frutos con su familia.",
+    "ins": [
+      "Sopa de hongos",
+      "Mermelada de manzana",
+      "Tamal de hoja"
+    ],
+    "oral": [
+      [
+        "Cocinar en la montaña",
+        "02/06/2022 · 11:10 min"
+      ]
+    ],
+    "lin": [
+      "Abuela · Cocina de montaña",
+      "Madre · Cocina de montaña",
+      "Adela Vargas · Cocina de montaña"
+    ],
+    "es": "Fonda Doña Adela (Zacatlán)",
+    "ver": [
+      "Verificada por el Observatorio",
+      "Fuente: Trabajo de campo BUAP, 2023"
+    ],
+    "id": "2",
+    "slug": "cocinera-2"
+  },
+  {
+    "n": "Bertha Martínez López",
+    "c": "#D89A2E",
+    "m": "Huejotzingo",
+    "esp": [
+      "Cocina de convento",
+      "Sidra"
+    ],
+    "len": "Español",
+    "rec": 8,
+    "mer": 2,
+    "est": 3,
+    "q": "Cada receta es una carta de nuestras abuelas.",
+    "rol": "Cocinera tradicional de Huejotzingo",
+    "org": "Asociación de Cocineras del Valle",
+    "bio": "Heredera de recetas conventuales del valle de Huejotzingo. Prepara dulces, licores y platillos de festividad.",
+    "ins": [
+      "Rompope",
+      "Dulce de tejocote",
+      "Chiles en nogada"
+    ],
+    "oral": [
+      [
+        "Recetas de convento",
+        "21/09/2021 · 16:30 min"
+      ]
+    ],
+    "lin": [
+      "Abuela · Cocina conventual",
+      "Bertha Martínez · Cocina de convento"
+    ],
+    "es": "Mesón del Valle (Huejotzingo)",
+    "ver": [
+      "Verificada por el Observatorio",
+      "Fuente: Archivo oral BUAP, 2022"
+    ],
+    "id": "3",
+    "slug": "cocinera-3"
+  },
+  {
+    "n": "Catalina Nerio Yazmín",
+    "c": "#4F7A4A",
+    "m": "Teziutlán",
+    "esp": [
+      "Comida ritual"
+    ],
+    "len": "Náhuatl",
+    "rec": 15,
+    "mer": 3,
+    "est": 6,
+    "q": "La comida ritual une a la comunidad.",
+    "rol": "Cocinera ritual de Teziutlán",
+    "org": "Comité de Mayordomías",
+    "bio": "Prepara los banquetes de mayordomías y fiestas patronales de su comunidad, con recetas de transmisión oral.",
+    "ins": [
+      "Mole de fiesta",
+      "Tamales de chile",
+      "Arroz rojo ritual"
+    ],
+    "oral": [
+      [
+        "Mayordomías y cocina",
+        "14/07/2022 · 20:05 min"
+      ]
+    ],
+    "lin": [
+      "Abuela · Cocina ritual",
+      "Catalina Nerio · Comida ritual"
+    ],
+    "es": "Cocina comunitaria de la mayordomía",
+    "ver": [
+      "Verificada por el Observatorio",
+      "Fuente: Trabajo comunitario, 2022"
+    ],
+    "id": "4",
+    "slug": "cocinera-4"
+  },
+  {
+    "n": "Efraín Talhuizo",
+    "c": "#2E8A82",
+    "m": "San Andrés Azumiatla",
+    "esp": [
+      "Cocina de milpa",
+      "Chile"
+    ],
+    "len": "Español",
+    "rec": 9,
+    "mer": 2,
+    "est": 4,
+    "q": "La milpa es la primera cocina.",
+    "rol": "Cocinero tradicional de San Andrés Azumiatla",
+    "org": "Cooperativa Milpa Viva",
+    "bio": "Cocinero que rescata platillos con maíces nativos y chiles locales, y participa en ferias campesinas.",
+    "ins": [
+      "Tlacoyos",
+      "Salsa de chile pasilla",
+      "Atole de maíz azul"
+    ],
+    "oral": [
+      [
+        "Los maíces de mi milpa",
+        "30/04/2023 · 13:40 min"
+      ]
+    ],
+    "lin": [
+      "Abuelo · Cocina de milpa",
+      "Efraín Talhuizo · Cocina de milpa"
+    ],
+    "es": "Puesto en el tianguis de Azumiatla",
+    "ver": [
+      "Verificado por el Observatorio",
+      "Fuente: Trabajo de campo BUAP, 2023"
+    ],
+    "id": "5",
+    "slug": "cocinera-5"
+  },
+  {
+    "n": "Guadalupe Camacho Martínez",
+    "c": "#7A5EA8",
+    "m": "Tepeaca",
+    "esp": [
+      "Dulces tradicionales"
+    ],
+    "len": "Español",
+    "rec": 11,
+    "mer": 2,
+    "est": 4,
+    "q": "Endulzar es una forma de cuidar.",
+    "rol": "Cocinera tradicional de Tepeaca",
+    "org": "Dulceras de Tepeaca",
+    "bio": "Maestra dulcera que conserva técnicas de cocción en cazo de cobre y recetas de camote y tejocote.",
+    "ins": [
+      "Camote poblano",
+      "Dulce de leche",
+      "Tortitas de Santa Clara"
+    ],
+    "oral": [
+      [
+        "El arte del dulce",
+        "18/10/2021 · 15:10 min"
+      ]
+    ],
+    "lin": [
+      "Abuela · Dulcería",
+      "Guadalupe Camacho · Dulces tradicionales"
+    ],
+    "es": "Dulcería La Tepeaqueña",
+    "ver": [
+      "Verificada por el Observatorio",
+      "Fuente: Archivo oral BUAP, 2021"
+    ],
+    "id": "6",
+    "slug": "cocinera-6"
+  }
+]

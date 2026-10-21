@@ -1,0 +1,210 @@
+[
+  {
+    "n": "Mercado de El Carmen",
+    "tp": "Mercado tradicional",
+    "m": "Puebla, Puebla",
+    "h": "Lun – Dom · 6:00 – 16:00",
+    "rel": 12,
+    "x": 184,
+    "y": 180,
+    "prod": [
+      "Chile poblano",
+      "Hierbas de olor",
+      "Frutos de temporada",
+      "Semillas",
+      "Hongos comestibles"
+    ],
+    "d": "Fundado en 1893, es uno de los mercados más emblemáticos de Puebla. Conserva su arquitectura original y una amplia oferta de ingredientes locales.",
+    "svc": [
+      "Estacionamiento",
+      "Sanitarios",
+      "Rampas de acceso",
+      "Pago electrónico",
+      "Wi-Fi",
+      "Área de comidas"
+    ],
+    "rec": [
+      "Chiles en nogada",
+      "Mole poblano",
+      "Caldo de camarón",
+      "Enchiladas poblanas"
+    ],
+    "coc": [
+      [
+        "Doña Ángeles Espinosa",
+        "Mole poblano"
+      ],
+      [
+        "Chef Abel Hernández",
+        "Cocina tradicional"
+      ],
+      [
+        "Doña Lupita Martínez",
+        "Antojitos poblanos"
+      ]
+    ],
+    "dir": "18 Sur y 9 Oriente 1101, El Carmen, 72000 Puebla, Pue.",
+    "act": [
+      "Actualizado hace 3 días",
+      "Nueva relación hace 1 semana",
+      "Visita registrada hace 2 semanas"
+    ],
+    "c": "#D89A2E",
+    "id": "1",
+    "slug": "mercado-1"
+  },
+  {
+    "n": "Mercado La Acocota",
+    "tp": "Mercado municipal",
+    "m": "San Pedro Cholula",
+    "h": "Mar – Dom · 7:00 – 18:00",
+    "rel": 8,
+    "x": 152,
+    "y": 212,
+    "prod": [
+      "Maíz nativo",
+      "Chile seco",
+      "Quesos",
+      "Tortillas"
+    ],
+    "d": "Mercado municipal de Cholula, punto clave de abasto de chiles secos, quesos y maíces criollos de la región.",
+    "svc": [
+      "Sanitarios",
+      "Rampas de acceso",
+      "Área de comidas"
+    ],
+    "rec": [
+      "Chalupas poblanas",
+      "Tlatlapas",
+      "Memelas de frijol"
+    ],
+    "coc": [
+      [
+        "Bertha Martínez López",
+        "Antojitos"
+      ],
+      [
+        "Catalina Nerio Yazmín",
+        "Comida ritual"
+      ]
+    ],
+    "dir": "Calle 5 de Mayo s/n, Centro, 72760 San Pedro Cholula, Pue.",
+    "act": [
+      "Actualizado hace 1 semana",
+      "Nueva relación hace 2 semanas"
+    ],
+    "c": "#C1531E",
+    "id": "2",
+    "slug": "mercado-2"
+  },
+  {
+    "n": "Tianguis de Zacatlán",
+    "tp": "Tianguis",
+    "m": "Zacatlán",
+    "h": "Sáb · 6:00 – 14:00",
+    "rel": 10,
+    "x": 222,
+    "y": 66,
+    "prod": [
+      "Manzana",
+      "Sidra",
+      "Mermeladas",
+      "Hongos"
+    ],
+    "d": "Tianguis semanal de la Sierra Norte, famoso por sus derivados de manzana, sidra y productos del bosque.",
+    "svc": [
+      "Sanitarios",
+      "Pago electrónico"
+    ],
+    "rec": [
+      "Sopa de milpa",
+      "Tlatlapas"
+    ],
+    "coc": [
+      [
+        "Adela Vargas Hernández",
+        "Cocina de montaña"
+      ]
+    ],
+    "dir": "Plaza de la Independencia, Centro, 73310 Zacatlán, Pue.",
+    "act": [
+      "Actualizado hace 5 días"
+    ],
+    "c": "#4F7A4A",
+    "id": "3",
+    "slug": "mercado-3"
+  },
+  {
+    "n": "Mercado Benito Juárez",
+    "tp": "Mercado tradicional",
+    "m": "Tehuacán",
+    "h": "Lun – Dom · 6:00 – 17:00",
+    "rel": 6,
+    "x": 288,
+    "y": 246,
+    "prod": [
+      "Cacao",
+      "Chile seco",
+      "Semillas",
+      "Amaranto"
+    ],
+    "d": "Mercado de referencia del Valle de Tehuacán, con oferta de cacao, chiles y semillas.",
+    "svc": [
+      "Estacionamiento",
+      "Sanitarios",
+      "Área de comidas"
+    ],
+    "rec": [
+      "Mole de caderas",
+      "Sopa de milpa"
+    ],
+    "coc": [
+      [
+        "Efraín Talhuizo",
+        "Cocina de milpa y chile"
+      ]
+    ],
+    "dir": "Av. Independencia Pte. s/n, Centro, 75700 Tehuacán, Pue.",
+    "act": [
+      "Actualizado hace 2 semanas"
+    ],
+    "c": "#2E8A82",
+    "id": "4",
+    "slug": "mercado-4"
+  },
+  {
+    "n": "Tianguis de Huejotzingo",
+    "tp": "Tianguis",
+    "m": "Huejotzingo",
+    "h": "Dom · 6:00 – 14:00",
+    "rel": 7,
+    "x": 112,
+    "y": 178,
+    "prod": [
+      "Sidra",
+      "Manzana",
+      "Frutos de temporada"
+    ],
+    "d": "Tianguis dominical con productos del valle: frutas, sidra y platillos de temporada.",
+    "svc": [
+      "Sanitarios"
+    ],
+    "rec": [
+      "Memelas de frijol",
+      "Chiles en nogada"
+    ],
+    "coc": [
+      [
+        "Guadalupe Camacho Martínez",
+        "Cocina tradicional"
+      ]
+    ],
+    "dir": "Plaza principal, Centro, 74160 Huejotzingo, Pue.",
+    "act": [
+      "Actualizado hace 1 mes"
+    ],
+    "c": "#7A5EA8",
+    "id": "5",
+    "slug": "mercado-5"
+  }
+]

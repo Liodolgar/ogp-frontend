@@ -1,0 +1,459 @@
+{
+  "kpis": [
+    {
+      "color": "#10284C",
+      "icon": "pin",
+      "value": "1,246",
+      "label": "Ingredientes registrados",
+      "delta": "▲ 8% vs. mes anterior"
+    },
+    {
+      "color": "#C1531E",
+      "icon": "recipe",
+      "value": "582",
+      "label": "Recetas históricas",
+      "delta": "▲ 6% vs. mes anterior"
+    },
+    {
+      "color": "#D89A2E",
+      "icon": "stall",
+      "value": "128",
+      "label": "Mercados y tianguis",
+      "delta": "▲ 5% vs. mes anterior"
+    },
+    {
+      "color": "#10284C",
+      "icon": "person",
+      "value": "243",
+      "label": "Cocineras y cocineros",
+      "delta": "▲ 7% vs. mes anterior"
+    },
+    {
+      "color": "#C1531E",
+      "icon": "shield",
+      "value": "39",
+      "label": "Protecciones legales",
+      "delta": "▲ 3% vs. mes anterior"
+    },
+    {
+      "color": "#D89A2E",
+      "icon": "pie",
+      "value": "24",
+      "label": "Municipios con riqueza gastronómica",
+      "delta": "▲ 4% vs. mes anterior"
+    }
+  ],
+  "markers": [
+    {
+      "t": "ing",
+      "x": 108,
+      "y": 196
+    },
+    {
+      "t": "rec",
+      "x": 150,
+      "y": 205
+    },
+    {
+      "t": "mer",
+      "x": 182,
+      "y": 180
+    },
+    {
+      "t": "coc",
+      "x": 128,
+      "y": 232
+    },
+    {
+      "t": "leg",
+      "x": 204,
+      "y": 168
+    },
+    {
+      "t": "mer",
+      "x": 222,
+      "y": 66
+    },
+    {
+      "t": "coc",
+      "x": 284,
+      "y": 88
+    },
+    {
+      "t": "ing",
+      "x": 288,
+      "y": 246
+    },
+    {
+      "t": "rec",
+      "x": 232,
+      "y": 198
+    },
+    {
+      "t": "ing",
+      "x": 250,
+      "y": 140
+    }
+  ],
+  "verificaciones": [
+    {
+      "type": "ing",
+      "name": "Chile poblano",
+      "municipality": "San Andrés Calpan",
+      "date": "12/05/2024",
+      "verified": true
+    },
+    {
+      "type": "rec",
+      "name": "Mole de caderas",
+      "municipality": "Tehuacán",
+      "date": "10/05/2024",
+      "verified": true
+    },
+    {
+      "type": "mer",
+      "name": "Mercado de Zacatlán",
+      "municipality": "Zacatlán",
+      "date": "08/05/2024",
+      "verified": false
+    },
+    {
+      "type": "coc",
+      "name": "Doña Ángela Espinosa",
+      "municipality": "Atlixco",
+      "date": "07/05/2024",
+      "verified": true
+    },
+    {
+      "type": "leg",
+      "name": "Mole poblano (IG)",
+      "municipality": "Valle de Puebla",
+      "date": "05/05/2024",
+      "verified": true
+    }
+  ],
+  "destacados": [
+    {
+      "name": "Chile poblano",
+      "place": "San Andrés Calpan",
+      "description": "Ingrediente emblemático de la identidad y tradición poblana.",
+      "kind": "ingrediente",
+      "colors": [
+        "#3E6B34",
+        "#B8232A"
+      ],
+      "seed": 3
+    },
+    {
+      "name": "Mole poblano",
+      "place": "Valle de Puebla",
+      "description": "Símbolo de identidad y tradición culinaria poblana.",
+      "kind": "receta",
+      "colors": [
+        "#4A2416",
+        "#C89A5B"
+      ],
+      "seed": 1
+    },
+    {
+      "name": "Mercado de El Carmen",
+      "place": "Puebla, Pue.",
+      "description": "Espacio vivo de comercio y tradición gastronómica.",
+      "kind": "mercado",
+      "colors": [
+        "#D89A2E",
+        "#C89A5B"
+      ],
+      "seed": 2
+    }
+  ],
+  "lineCharts": {
+    "hist": {
+      "sub": "Registros acumulados en el observatorio · 1,246 en total",
+      "max": 1600,
+      "ticks": [
+        0,
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "unit": "",
+      "area": 1,
+      "s": [
+        {
+          "n": "Registros acumulados",
+          "c": "#10284C",
+          "v": [
+            400,
+            700,
+            950,
+            1150,
+            1246
+          ]
+        }
+      ]
+    },
+    "verif": {
+      "sub": "Porcentaje de registros verificados sobre el total · 68 % actual",
+      "max": 100,
+      "ticks": [
+        0,
+        25,
+        50,
+        75,
+        100
+      ],
+      "unit": "%",
+      "area": 1,
+      "s": [
+        {
+          "n": "Registros verificados",
+          "c": "#C1531E",
+          "v": [
+            25,
+            40,
+            52,
+            61,
+            68
+          ]
+        }
+      ]
+    },
+    "geo": {
+      "sub": "Municipios con al menos un registro · 90 en la actualidad",
+      "max": 100,
+      "ticks": [
+        0,
+        25,
+        50,
+        75,
+        100
+      ],
+      "unit": "",
+      "area": 1,
+      "s": [
+        {
+          "n": "Municipios con registro",
+          "c": "#D89A2E",
+          "v": [
+            25,
+            50,
+            68,
+            84,
+            90
+          ]
+        }
+      ]
+    },
+    "cat": {
+      "sub": "Nuevos registros por categoría en cada periodo",
+      "max": 200,
+      "ticks": [
+        0,
+        50,
+        100,
+        150,
+        200
+      ],
+      "unit": "",
+      "area": 0,
+      "s": [
+        {
+          "n": "Recetas",
+          "c": "#C1531E",
+          "v": [
+            80,
+            120,
+            140,
+            160,
+            180
+          ]
+        },
+        {
+          "n": "Ingredientes",
+          "c": "#4F7A4A",
+          "v": [
+            60,
+            90,
+            110,
+            125,
+            150
+          ]
+        },
+        {
+          "n": "Mercados y tianguis",
+          "c": "#D89A2E",
+          "v": [
+            20,
+            30,
+            40,
+            45,
+            55
+          ]
+        },
+        {
+          "n": "Cocineras y cocineros",
+          "c": "#10284C",
+          "v": [
+            35,
+            50,
+            70,
+            85,
+            100
+          ]
+        },
+        {
+          "n": "Protección legal",
+          "c": "#7A5EA8",
+          "v": [
+            10,
+            15,
+            20,
+            25,
+            30
+          ]
+        }
+      ]
+    }
+  },
+  "categories": [
+    {
+      "name": "Recetas",
+      "value": 582,
+      "color": "#C1531E"
+    },
+    {
+      "name": "Ingredientes",
+      "value": 324,
+      "color": "#4F7A4A"
+    },
+    {
+      "name": "Mercados y tianguis",
+      "value": 128,
+      "color": "#D89A2E"
+    },
+    {
+      "name": "Cocineras y cocineros",
+      "value": 173,
+      "color": "#10284C"
+    },
+    {
+      "name": "Protección legal",
+      "value": 39,
+      "color": "#7A5EA8"
+    }
+  ],
+  "top": {
+    "rec": [
+      {
+        "name": "Mole poblano",
+        "value": 128
+      },
+      {
+        "name": "Chiles en nogada",
+        "value": 96
+      },
+      {
+        "name": "Chalupas poblanas",
+        "value": 74
+      },
+      {
+        "name": "Cemitas",
+        "value": 52
+      },
+      {
+        "name": "Pipián verde",
+        "value": 41
+      }
+    ],
+    "ing": [
+      {
+        "name": "Chile poblano",
+        "value": 156
+      },
+      {
+        "name": "Maíz nativo",
+        "value": 122
+      },
+      {
+        "name": "Frijol",
+        "value": 98
+      },
+      {
+        "name": "Quelites",
+        "value": 76
+      },
+      {
+        "name": "Amaranto",
+        "value": 54
+      }
+    ],
+    "mer": [
+      {
+        "name": "Mercado El Carmen",
+        "value": 38
+      },
+      {
+        "name": "Mercado Hidalgo",
+        "value": 29
+      },
+      {
+        "name": "Mercado 5 de Mayo",
+        "value": 24
+      },
+      {
+        "name": "Mercado La Acocota",
+        "value": 20
+      },
+      {
+        "name": "Tianguis de Zacatlán",
+        "value": 17
+      }
+    ],
+    "mun": [
+      {
+        "name": "Puebla",
+        "value": 312
+      },
+      {
+        "name": "Atlixco",
+        "value": 97
+      },
+      {
+        "name": "Tehuacán",
+        "value": 87
+      },
+      {
+        "name": "San Andrés Cholula",
+        "value": 74
+      },
+      {
+        "name": "Amozoc",
+        "value": 65
+      }
+    ]
+  },
+  "quality": [
+    {
+      "name": "Completitud",
+      "value": 82,
+      "color": "#4F7A4A"
+    },
+    {
+      "name": "Verificación",
+      "value": 68,
+      "color": "#D89A2E"
+    },
+    {
+      "name": "Consistencia",
+      "value": 90,
+      "color": "#10284C"
+    },
+    {
+      "name": "Actualización",
+      "value": 76,
+      "color": "#2E8A82"
+    }
+  ]
+}

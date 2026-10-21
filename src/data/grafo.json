@@ -1,0 +1,383 @@
+{
+  "nodes": [
+    {
+      "id": "mole",
+      "t": "rec",
+      "x": 380,
+      "y": 235,
+      "r": 34,
+      "n": "Mole poblano",
+      "d": "Platillo emblemático que combina chiles, especias, chocolate y semillas. Representa la fusión cultural poblana y su tradición culinaria.",
+      "f": [
+        [
+          "Tipo",
+          "Receta histórica"
+        ],
+        [
+          "Categoría",
+          "Platillo fuerte"
+        ],
+        [
+          "Origen principal",
+          "Pueblo de Zaragoza"
+        ],
+        [
+          "Época",
+          "Siglo XVII"
+        ],
+        [
+          "Verificación",
+          "Verificado · 12/05/2024"
+        ]
+      ]
+    },
+    {
+      "id": "chile_p",
+      "t": "ing",
+      "x": 255,
+      "y": 110,
+      "r": 22,
+      "n": "Chile poblano",
+      "d": "Chile fresco o seco, base de numerosas preparaciones poblanas.",
+      "f": [
+        [
+          "Tipo",
+          "Ingrediente"
+        ],
+        [
+          "Origen",
+          "San Andrés Calpan"
+        ],
+        [
+          "Temporada",
+          "Todo el año"
+        ]
+      ]
+    },
+    {
+      "id": "chile_m",
+      "t": "ing",
+      "x": 140,
+      "y": 175,
+      "r": 20,
+      "n": "Chile mulato",
+      "d": "Chile seco de sabor dulce y color oscuro.",
+      "f": [
+        [
+          "Tipo",
+          "Ingrediente"
+        ],
+        [
+          "Origen",
+          "Valle de Tehuacán"
+        ]
+      ]
+    },
+    {
+      "id": "chile_s",
+      "t": "ing",
+      "x": 110,
+      "y": 290,
+      "r": 20,
+      "n": "Chile pasilla",
+      "d": "Chile seco de notas ahumadas.",
+      "f": [
+        [
+          "Tipo",
+          "Ingrediente"
+        ],
+        [
+          "Origen",
+          "Sierra Norte"
+        ]
+      ]
+    },
+    {
+      "id": "cacao",
+      "t": "ing",
+      "x": 375,
+      "y": 62,
+      "r": 20,
+      "n": "Cacao mexicano",
+      "d": "Cacao tostado y molido que aporta profundidad al mole.",
+      "f": [
+        [
+          "Tipo",
+          "Ingrediente"
+        ],
+        [
+          "Origen",
+          "Sur de México"
+        ]
+      ]
+    },
+    {
+      "id": "almendra",
+      "t": "ing",
+      "x": 480,
+      "y": 420,
+      "r": 18,
+      "n": "Almendra",
+      "d": "Espesante y aporte de sabor.",
+      "f": [
+        [
+          "Tipo",
+          "Ingrediente"
+        ]
+      ]
+    },
+    {
+      "id": "ajonjoli",
+      "t": "ing",
+      "x": 585,
+      "y": 405,
+      "r": 18,
+      "n": "Ajonjolí",
+      "d": "Semilla tostada que decora y espesa.",
+      "f": [
+        [
+          "Tipo",
+          "Ingrediente"
+        ]
+      ]
+    },
+    {
+      "id": "angela",
+      "t": "coc",
+      "x": 520,
+      "y": 90,
+      "r": 24,
+      "n": "Doña Ángela Espinosa",
+      "d": "Cocinera tradicional de Atlixco, portadora de recetas de mole de fiesta.",
+      "f": [
+        [
+          "Tipo",
+          "Cocinera tradicional"
+        ],
+        [
+          "Municipio",
+          "Atlixco"
+        ],
+        [
+          "Verificación",
+          "Verificada"
+        ]
+      ]
+    },
+    {
+      "id": "chef",
+      "t": "coc",
+      "x": 255,
+      "y": 410,
+      "r": 22,
+      "n": "Chef Ángel Vázquez",
+      "d": "Chef que reinterpreta recetas tradicionales poblanas.",
+      "f": [
+        [
+          "Tipo",
+          "Cocinero"
+        ],
+        [
+          "Establecimiento",
+          "Restaurante en Puebla"
+        ]
+      ]
+    },
+    {
+      "id": "carmen",
+      "t": "mer",
+      "x": 215,
+      "y": 315,
+      "r": 22,
+      "n": "Mercado El Carmen",
+      "d": "Mercado tradicional de Puebla, punto de abasto de chiles, semillas y hierbas.",
+      "f": [
+        [
+          "Tipo",
+          "Mercado tradicional"
+        ],
+        [
+          "Municipio",
+          "Puebla"
+        ]
+      ]
+    },
+    {
+      "id": "acocota",
+      "t": "mer",
+      "x": 130,
+      "y": 400,
+      "r": 20,
+      "n": "Mercado La Acocota",
+      "d": "Mercado municipal de San Pedro Cholula.",
+      "f": [
+        [
+          "Tipo",
+          "Mercado municipal"
+        ],
+        [
+          "Municipio",
+          "San Pedro Cholula"
+        ]
+      ]
+    },
+    {
+      "id": "zaragoza",
+      "t": "mun",
+      "x": 400,
+      "y": 395,
+      "r": 24,
+      "n": "Pueblo de Zaragoza",
+      "d": "Puebla de Zaragoza, origen principal del mole poblano.",
+      "f": [
+        [
+          "Tipo",
+          "Municipio"
+        ],
+        [
+          "Región",
+          "Valle de Puebla"
+        ]
+      ]
+    },
+    {
+      "id": "cholula",
+      "t": "mun",
+      "x": 650,
+      "y": 310,
+      "r": 20,
+      "n": "San Andrés Cholula",
+      "d": "Municipio del Valle de Puebla con tradición gastronómica.",
+      "f": [
+        [
+          "Tipo",
+          "Municipio"
+        ]
+      ]
+    },
+    {
+      "id": "ig",
+      "t": "leg",
+      "x": 640,
+      "y": 190,
+      "r": 26,
+      "n": "Indicación Geográfica Mole Poblano",
+      "d": "Protección otorgada a la receta tradicional del mole poblano.",
+      "f": [
+        [
+          "Tipo",
+          "Indicación geográfica"
+        ],
+        [
+          "Autoridad",
+          "IMPI"
+        ],
+        [
+          "Fecha",
+          "12/05/2024"
+        ]
+      ]
+    },
+    {
+      "id": "mx",
+      "t": "leg",
+      "x": 695,
+      "y": 95,
+      "r": 20,
+      "n": "Protección en México",
+      "d": "Amparo de la indicación geográfica en el territorio nacional.",
+      "f": [
+        [
+          "Tipo",
+          "Protección legal"
+        ],
+        [
+          "Alcance",
+          "Nacional"
+        ]
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "mole",
+      "target": "chile_p",
+      "type": "ingrediente"
+    },
+    {
+      "source": "mole",
+      "target": "chile_m",
+      "type": "ingrediente"
+    },
+    {
+      "source": "mole",
+      "target": "chile_s",
+      "type": "ingrediente"
+    },
+    {
+      "source": "mole",
+      "target": "cacao",
+      "type": "ingrediente"
+    },
+    {
+      "source": "mole",
+      "target": "almendra",
+      "type": "ingrediente"
+    },
+    {
+      "source": "mole",
+      "target": "ajonjoli",
+      "type": "ingrediente"
+    },
+    {
+      "source": "angela",
+      "target": "mole",
+      "type": "prepara"
+    },
+    {
+      "source": "chef",
+      "target": "mole",
+      "type": "interpreta"
+    },
+    {
+      "source": "mole",
+      "target": "carmen",
+      "type": "se obtiene en"
+    },
+    {
+      "source": "mole",
+      "target": "zaragoza",
+      "type": "origen principal"
+    },
+    {
+      "source": "zaragoza",
+      "target": "cholula",
+      "type": "incluye"
+    },
+    {
+      "source": "mole",
+      "target": "ig",
+      "type": "cuenta con protección"
+    },
+    {
+      "source": "ig",
+      "target": "mx",
+      "type": "está amparada por"
+    },
+    {
+      "source": "chile_p",
+      "target": "carmen",
+      "type": "se vende en"
+    },
+    {
+      "source": "chef",
+      "target": "acocota",
+      "type": "compra en"
+    },
+    {
+      "source": "acocota",
+      "target": "carmen",
+      "type": "abastece a"
+    }
+  ]
+}
